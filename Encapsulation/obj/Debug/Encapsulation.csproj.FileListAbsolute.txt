@@ -1,0 +1,6 @@
+C:\Users\ExtNurB\Desktop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\ExtNurB\Desktop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\ExtNurB\Desktop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\ExtNurB\Desktop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\ExtNurB\Desktop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\ExtNurB\Desktop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
