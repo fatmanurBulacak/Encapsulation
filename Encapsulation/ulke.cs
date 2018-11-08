@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 /// <summary>
+/// https://www.ahmetcansever.com/programlama/c-class-encapsulation-kapsulleme/ Teşekkürler
 /// Kapsülleme (Encapsulation) kavramı bir nesnenin bazı özellik ve işlevlerini başka sınıflardan ve nesnelerden saklamaktır.
 /// Private erişim belirteci sayesinde bu şekilde tanımlanan bir field’ i başka sınıflardan gizlemiş oluruz.
 /// Ayrıca bu field başka sınıflarda kullanılamaz.
